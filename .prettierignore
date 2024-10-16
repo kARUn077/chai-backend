@@ -1,6 +1,6 @@
 /.vscode
 /node-web_modules
-./dist
+./dist 
 
 *.env
 .env
